@@ -1,0 +1,22 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0 auto;
+align-items: center;
+}
+.bloco{
+    width: 50%;
+    height: 100em;
+    background-color: blueviolet ;
+    float: left;
+    padding: 0px;
+    text-transform: capitalize;
+}
+.bloco2{
+    margin-right: 0px;
+    padding: 0px;
+    margin-left: 50%;
+    width: 50%;
+    height: 100em;
+    background-color: rgb(29, 236, 10) ;
+}
